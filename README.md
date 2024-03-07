@@ -2,4 +2,8 @@ I'm Nunzio Onorati, i'm a BS student at Politecnich of Turin and spend my free t
 Wanna get in contact? Checkout my website at: [https://nunzioonorati.it
 ](https://nunzioonorati.onrender.com)
 
-[![Nunzio's GitHub stats](https://github-readme-stats.vercel.app/api?username=nunzioono)](https://github.com/anuraghazra/github-readme-stats)
+[![Nunzio's GitHub stats](https://github-readme-stats.vercel.app/api?username=nunzioono&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nunzioono)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nunzioono)](https://github.com/anuraghazra/github-readme-stats)
