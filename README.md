@@ -5,6 +5,6 @@ Wanna get in contact? Checkout my website at: [https://nunzioonorati.it
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-[![Nunzio's GitHub stats](https://github-readme-stats.vercel.app/api?username=nunzioono&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Nunzio's GitHub stats](https://github-readme-stats.vercel.app/api?username=nunzioono&theme=dark)](https://github.com/anuraghazra/github-readme-stats)-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nunzioono&theme=dark&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
